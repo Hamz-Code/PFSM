@@ -1,5 +1,5 @@
 # PFSM
-(Portable Firefox Searching Machine)
+# (Portable Firefox Searching Machine)
 =-=-=-=-=-=-=
 Dorking   [✓]
 Searching [✓]
