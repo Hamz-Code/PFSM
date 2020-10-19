@@ -9,6 +9,6 @@ Copyright© 2020 Hamz-Code
 
 # Use
 1.bash pfsm
-   or
+#   or
 1.chmod +x pfsm
 2../pfsm
