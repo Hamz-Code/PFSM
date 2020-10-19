@@ -8,8 +8,8 @@ Searching [✓]
 Copyright© 2020 Hamz-Code 
 
 # Use
-1.bash pfsm
+1.bash pfsm.sh
 #   or
-1.chmod +x pfsm
+1.chmod +x pfsm.sh
 
-2../pfsm
+2../pfsm.sh
