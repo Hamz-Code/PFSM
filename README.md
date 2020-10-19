@@ -1,8 +1,8 @@
 # PFSM
 # (Portable Firefox Searching Machine)
-=-=-=-=-=-=-=
+Version V1.4
+
 Dorking   [✓]
 Searching [✓]
-=-=-=-=-=-=-=
-Version V1.4
+
 Copyright© 2020 , Hamz-Code About PFSM 
