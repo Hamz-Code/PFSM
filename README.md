@@ -5,4 +5,4 @@ Version V1.4
 Dorking   [✓]
 Searching [✓]
 
-Copyright© 2020 , Hamz-Code About PFSM 
+Copyright© 2020 Hamz-Code 
