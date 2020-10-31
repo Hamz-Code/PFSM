@@ -19,11 +19,12 @@ start_here(){
 clear
 
 echo -e $okegreen"
-PPPPPP  FFFFFFF  SSSSSSS   MMM   MMM
-PP   PP FF      SS         MMMM MMMM
-PPPPPP  FFFF     SSSSSS    MM MMM MM
-PP      FF            SS   MM  M  MM
-PP      FF       SSSSSS    MM     MM$white V1.4$cyan
+ ______  _______  _______   ___   ___
+|PPPPPP\|FFFFFFF|/SSSSSSS\ |MMM\ /MMM|
+|PP|_/PP|FF|    |SS\____   |MMMM MMMM|
+|PPPPPP/|FFFF|   \SSSSSS\  |MM|MMM|MM|
+|PP|    |FF|      ____/SS| |MM|\M/|MM|
+|PP|    |FF|     |SSSSSS/  |MM|   |MM|$white V1.4$cyan
 =========================================
 |PFSM:Portable Firefox Searching Machine|
 =========================================
